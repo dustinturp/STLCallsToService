@@ -15,7 +15,7 @@ Summary of reported crime
      October   -
      November  -
      December  -
-2009 - 
+2009 - 63,047
      January   -
      February  -
      March     -
@@ -27,7 +27,7 @@ Summary of reported crime
      September -
      October   -
      November  -
-     December  -
+     December  - 4,678
 2010 -
      January   -
      February  -
@@ -120,6 +120,19 @@ Summary of reported crime
      November  -
      December  -
 2017 - 
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2018 - 
      January   -
      February  -
      March     -

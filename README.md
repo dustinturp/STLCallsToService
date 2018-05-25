@@ -1,7 +1,8 @@
 
 This data is gathered from STLPD data and combined into single years
 
-Summary of reported crime
+## Summary of reported crime
+
 | Month/Year | Total  |  
 |:----------:|-------:|
 |2008        |  68,411|

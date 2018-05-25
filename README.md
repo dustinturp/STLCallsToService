@@ -99,6 +99,9 @@ This data is gathered from STLPD data and combined into single years
 |October     |  |
 |November    |   |
 |December    |   |
+
+| Month/Year | Total  |  
+|:----------:|-------:|
 |**2016**    |  50,426| 
 |    January |   3,900|
 |February    |   3,408|
@@ -112,21 +115,21 @@ This data is gathered from STLPD data and combined into single years
 |October     |   4,586|
 |November    |   3,952|
 |December    |   3,879|
-|**2017**    |        |
-     January   - 3,937
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |  |
-|August      |   |
-|September   |   |
-|October     |  |
-|November    |   |
-|December    |   |
-2018 - 
-     January   - 3,826
+|**2017**    |  48,986|
+|January     |   3,936|
+|February    |   3,548|
+|March       |   3,981|
+|April       |   3,969|
+|May         |   4,548|
+|June        |   4,210|
+|July        |   4,463|
+|August      |   4,503|
+|September   |   3,756|
+|October     |   4,462|
+|November    |   3,847|
+|December    |   3,763|
+|**2018**    |        |
+|January     |   3,826|
 |February    |   |
 |March       |   |
 |April       |   |
@@ -138,6 +141,9 @@ This data is gathered from STLPD data and combined into single years
 |October     |   |
 |November    |   |
 |December    |   |
+
+
+* 2017 May stats are at the end of the doc and has a second doc for may. Addional columns are present in 2017May.
 
 http://www.slmpd.org/Crimereports.shtml
 

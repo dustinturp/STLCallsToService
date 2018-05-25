@@ -31,7 +31,6 @@ This data is gathered from STLPD data and combined into single years
 |October     |   5,591|
 |November    |   5,367|
 |December    |   4,677|
-
 |**2010**    |        |
 |January     |   |
 |February    |   |

@@ -32,7 +32,7 @@ This data is gathered from STLPD data and combined into single years
 |November    |   5,367|
 |December    |   4,677|
 
-2010 -
+|**2010**    |        |
 |January     |   |
 |February    |   |
 |March       |   |
@@ -44,33 +44,7 @@ This data is gathered from STLPD data and combined into single years
 |September   |   |
 |October     |   |
 |November    |   |
-2011 -
-|January     |   |
-|February    |   |
-|March       |  |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-2012 -
-|January     |  |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |  |
-|June        |   |
-|July        |  |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |  |
-|December    |   |
-2013 -
+|**2011**    |   |
 |January     |   |
 |February    |   |
 |March       |   |
@@ -83,25 +57,58 @@ This data is gathered from STLPD data and combined into single years
 |October     |   |
 |November    |   |
 |December    |   |
-
-2014 -
- 
-2015 - 
+|**2012**    |   |
 |January     |   |
 |February    |   |
 |March       |   |
 |April       |   |
-|May         |  |
+|May         |   |
 |June        |   |
 |July        |   |
 |August      |   |
 |September   |   |
-|October     |  |
+|October     |   |
 |November    |   |
 |December    |   |
-
-| Month/Year | Total  |  
-|:----------:|-------:|
+|**2013**    |   |
+|January     |   |
+|February    |   |
+|March       |   |
+|April       |   |
+|May         |   |
+|June        |   |
+|July        |   |
+|August      |   |
+|September   |   |
+|October     |   |
+|November    |   |
+|December    |   |
+|**2014**    |   |
+|January     |   |
+|February    |   |
+|March       |   |
+|April       |   |
+|May         |   |
+|June        |   |
+|July        |   |
+|August      |   |
+|September   |   |
+|October     |   |
+|November    |   |
+|December    |   |
+|**2015**    |   | 
+|January     |   |
+|February    |   |
+|March       |   |
+|April       |   |
+|May         |   |
+|June        |   |
+|July        |   |
+|August      |   |
+|September   |   |
+|October     |   |
+|November    |   |
+|December    |   |
 |**2016**    |  50,426| 
 |    January |   3,900|
 |February    |   3,408|
@@ -135,9 +142,9 @@ This data is gathered from STLPD data and combined into single years
 |April       |   |
 |May         |   |
 |June        |   |
-|July        |  |
+|July        |   |
 |August      |   |
-|September   |  |
+|September   |   |
 |October     |   |
 |November    |   |
 |December    |   |

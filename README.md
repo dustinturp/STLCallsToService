@@ -143,7 +143,7 @@ This data is gathered from STLPD data and combined into single years
 |December    |   |
 
 
-* 2017 May stats are at the end of the doc and has a second doc for may. Addional columns are present in 2017May.
+* 2017 May stats are at the end of the doc and has a second doc. Addional columns are present in 2017May.
 
 http://www.slmpd.org/Crimereports.shtml
 

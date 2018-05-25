@@ -1,7 +1,141 @@
 
 This data is gathered from STLPD data and combined into single years
 
+Summary of reported crime
+2008 - 68,411
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2009 - 
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2010 -
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2011 -
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2012 -
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2013 -
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2014 -
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2015 - 
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2016 - 
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+2017 - 
+     January   -
+     February  -
+     March     -
+     April     -
+     May       -
+     June      -
+     July      -
+     August    -
+     September -
+     October   -
+     November  -
+     December  -
+
 http://www.slmpd.org/Crimereports.shtml
+
+For more information about St. Louis PD Crime stats check this [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf)
 
 this is a publically accessible data set 
 

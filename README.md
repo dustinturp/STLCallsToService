@@ -1,6 +1,10 @@
 
 This data is gathered from STLPD data and combined into single years
 
+CRS info:
+
+EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
+
 ## Summary of reported crime
 
 | Month/Year | Total  |  

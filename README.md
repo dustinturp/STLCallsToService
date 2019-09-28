@@ -22,7 +22,7 @@ encoding = utf-8
 |2019| 0000| 00000| 00000 |00000 |00000|0000 |0000 |0000 |00000 |00000 |00000 | 000| 00000 |
 
 
-* 2017 May stats are at the end of the doc and has a second doc. Addional columns are present in 2017May.
+* Addional columns are present in 2017May.
 
 
 http://www.slmpd.org/Crimereports.shtml

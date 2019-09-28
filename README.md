@@ -1,163 +1,31 @@
 
 This data is gathered from STLPD data and combined into single years
 
-CRS info:
+CRS info: EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
+encoding = utf-8
 
-EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
+## Summary of calls to service
 
-## Summary of reported crime
-
-| Month/Year | Total  |  
-|:----------:|-------:|
-|**2008**    |  68,410|
-|January     |   5,516|
-|February    |   4,468|
-|March       |   5,427|
-|April       |   5,899|
-|May         |   5,935|
-|June        |   5,948|
-|July        |   6,348|
-|August      |   6,416|
-|September   |   6,612|
-|October     |   5,962|
-|November    |   5,260|
-|December    |   4,820|
-|**2009**    |  63,046|
-|January     |   4,718|
-|February    |   4,443|
-|March       |   5,127|
-|April       |   4,961|
-|May         |   5,373|
-|June        |   5,380|
-|July        |   5,816|
-|August      |   5,930|
-|September   |   5,633|
-|October     |   5,591|
-|November    |   5,367|
-|December    |   4,677|
-|**2010**    |  57,830|
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|**2011**    |   55,247|
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-|**2012**    |   53,887|
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-|**2013**    |   51,970|
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-|**2014**    |   47,876|
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-|**2015**    |  51,235| 
-|January     |   |
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
-|**2016**    |  50,426| 
-|    January |   3,900|
-|February    |   3,408|
-|March       |   4,011|
-|April       |   3,999|
-|May         |   4,430|
-|June        |   3,339|
-|July        |   4,554|
-|August      |   4,982|
-|September   |   4,387|
-|October     |   4,586|
-|November    |   3,952|
-|December    |   3,879|
-|**2017**    |  48,986|
-|January     |   3,936|
-|February    |   3,548|
-|March       |   3,981|
-|April       |   3,969|
-|May         |   4,548|
-|June        |   4,210|
-|July        |   4,463|
-|August      |   4,503|
-|September   |   3,756|
-|October     |   4,462|
-|November    |   3,847|
-|December    |   3,763|
-|**2018**    |        |
-|January     |   3,826|
-|February    |   |
-|March       |   |
-|April       |   |
-|May         |   |
-|June        |   |
-|July        |   |
-|August      |   |
-|September   |   |
-|October     |   |
-|November    |   |
-|December    |   |
+|Year|January|February|March|April|May|June|July|August|September|October|November|December|total|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|2008|5,516|4,468|5,427|5,899|5,935|5,948|6,348|6,416|6,612|5,962|5,260|4,820|68,410|
+|2009|4,718|4,443|5,127|4,961|5,373|5,380|5,816|5,930|5,633|5,591|5,367|4,677|63,046|
+|2010|4,179|3,448|4,777|5,096|4,927|4,869|5,488|5,460|5,245|5,341|4,689|4,310|57,830|
+|2011|4,163|3,510|4,581|4,945|5,191|5,311|5,211|5,005|4,468|4,684|4,259|3,919|55,247|
+|2012|3,671|3,354|4,367|4,905|4,975|4,853|5,139|5,038|4,437|4,571|4,096|3,981|53,887|
+|2013|4,421|3,408|4,010|4,344|4,891|4,752|4,977|4,804|4,771|4,117|3,850|3,625|51,970|
+|2014|3,280|2,932|3,697|3,997|4,196|4,235|4,383|4,337|4,481|4,242|3,976|4,120|47,876|
+|2015|3,983|3,188|4,447|,4776|4,456|4,434|4,826|4,709|4,509|4,380|3,853|3,674|51,235|
+|2016|3,900|3,408|4,011|3,999|4,430|3,339|4,554|4,982|4,387|4,586|3,952|3,879|50,426|
+|2017|3,936|3,548|3,981|3,969|4,548|4,210|4,463|4,503|3,756|4,462|3,847|3,763|48,986|
+|2018|3,826|3,185|3,629|3,735|4,013|4,282|4,257|4,402|4,096|4,087|3,559|3,672|46,742|
+|2019| 0000| 00000| 00000 |00000 |00000|0000 |0000 |0000 |00000 |00000 |00000 | 000| 00000 |
 
 
 * 2017 May stats are at the end of the doc and has a second doc. Addional columns are present in 2017May.
 
+
 http://www.slmpd.org/Crimereports.shtml
 
-For more information about St. Louis PD Crime stats check this [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf)
-
-this is a publically accessible data set 
+For more information about St. Louis PD Crime stats check their [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf).
 

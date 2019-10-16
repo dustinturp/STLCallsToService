@@ -1,10 +1,12 @@
 
-This data is gathered from STLPD data and combined into single years
+This data is gathered from  the [STLPD](http://www.slmpd.org/Crimereports.shtml) website and combined into single years
 
 CRS info: EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
-encoding = utf-8
 
-## Summary of calls to service
+encoding: utf-8
+
+
+# Summary of calls to service
 
 |Year|January|February|March|April|May|June|July|August|September|October|November|December|total|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -21,11 +23,32 @@ encoding = utf-8
 |2018|3,826|3,185|3,629|3,735|4,013|4,282|4,257|4,402|4,096|4,087|3,559|3,672|46,742|
 |2019| 0000| 00000| 00000 |00000 |00000|0000 |0000 |0000 |00000 |00000 |00000 | 000| 00000 |
 
+---
 
 * Addional columns are present in 2017May.
 
+---
 
-http://www.slmpd.org/Crimereports.shtml
+## Using the Python Script to join the CSV files.
 
-For more information about St. Louis PD Crime stats check their [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf).
+### Requiremnts
+    - Python 3
+    - Pandas library (pip install pandas)
+
+
+# Instrucitons
+1. In your terminal navigate to the directory where the folder is stored.
+
+`cd /Users/moo/Documents/github/callstoservice/combine`
+
+2. Use the script. (command may look different depending on how you installed Python)
+
+`python3 pandas_join_files.py` 
+
+3. Enter a name for a combined file.
+
+
+
+
+For more information about the St. Louis PD Crime stats check their [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf).
 

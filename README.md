@@ -35,11 +35,10 @@ encoding: utf-8
     - Python 3
     - Pandas library (pip install pandas)
 
+## Instrucitons
 
-# Instrucitons
-1. In your terminal navigate to the directory where the folder is stored.
-
-`cd /Users/moo/Documents/github/callstoservice/combine`
+1. Clone the repo
+`git clone https://github.com/dustinturp/STLCallsToService.git`
 
 2. Use the script. (command may look different depending on how you installed Python)
 
@@ -49,6 +48,8 @@ encoding: utf-8
 
 
 
-
+## Source
+[Monthly reports](https://www.slmpd.org/Crimereports.shtml)
 For more information about the St. Louis PD Crime stats check their [FAQ](http://www.slmpd.org/Crime/CrimeDataFrequentlyAskedQuestions.pdf).
+
 

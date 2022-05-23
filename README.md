@@ -4,6 +4,7 @@
 
 The included python script can be used to merge all data into a single csv file.
 
+
 CRS info: EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
 encoding: utf-8
 
@@ -23,7 +24,7 @@ encoding: utf-8
 |2017|3,936|3,548|3,981|3,969|4,548|4,210|4,463|4,503|3,756|4,462|3,847|3,763|48,986|
 |2018|3,826|3,185|3,629|3,735|4,013|4,282|4,257|4,402|4,096|4,087|3,559|3,672|46,742|
 |2019|3,527|3,198|3,605|4,064|4,133|4,549|4,701|4,624|4,679|4,283|3,803|3,735|48,901|
-|2020|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXXX|
+|2020|3,943|3,493|3,417|6,028|3,309|4,371|4,101|4,193|4,024|3,693|3,843|3,319|47,734|
 
 ---
 ### MISC Notes
@@ -44,10 +45,17 @@ encoding: utf-8
 `git clone https://github.com/dustinturp/STLCallsToService.git`
 
 2. Use the script. (command may look different depending on how you installed Python)
+Navigate to the folder containing the csv files via terminal.
 
 `python3 pandas_join_files.py` 
 
 3. Enter a name for the combined file.
+
+## Future Improvements
+
+* Charts
+* CLI prompts
+* Error handling 
 
 
 ## Source

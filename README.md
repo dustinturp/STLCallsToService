@@ -1,10 +1,11 @@
+# Description
 
-This data is gathered from  the [STLPD](http://www.slmpd.org/Crimereports.shtml) website and combined into single years
+[STLPD](http://www.slmpd.org/Crimereports.shtml) monthly reports combined into single year reports.
+
+The included python script can be used to merge all data into a single csv file.
 
 CRS info: EPSG:102696, NAD_1983_StatePlane_Missouri_East_FIPS_2401_Feet
-
 encoding: utf-8
-
 
 # Summary of calls to service
 
@@ -17,25 +18,27 @@ encoding: utf-8
 |2012|3,671|3,354|4,367|4,905|4,975|4,853|5,139|5,038|4,437|4,571|4,096|3,981|53,887|
 |2013|4,421|3,408|4,010|4,344|4,891|4,752|4,977|4,804|4,771|4,117|3,850|3,625|51,970|
 |2014|3,280|2,932|3,697|3,997|4,196|4,235|4,383|4,337|4,481|4,242|3,976|4,120|47,876|
-|2015|3,983|3,188|4,447|,4776|4,456|4,434|4,826|4,709|4,509|4,380|3,853|3,674|51,235|
+|2015|3,983|3,188|4,447|4,776|4,456|4,434|4,826|4,709|4,509|4,380|3,853|3,674|51,235|
 |2016|3,900|3,408|4,011|3,999|4,430|3,339|4,554|4,982|4,387|4,586|3,952|3,879|50,426|
 |2017|3,936|3,548|3,981|3,969|4,548|4,210|4,463|4,503|3,756|4,462|3,847|3,763|48,986|
 |2018|3,826|3,185|3,629|3,735|4,013|4,282|4,257|4,402|4,096|4,087|3,559|3,672|46,742|
 |2019|3,527|3,198|3,605|4,064|4,133|4,549|4,701|4,624|4,679|4,283|3,803|3,735|48,901|
+|2020|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXX|XXXXXX|
 
 ---
+### MISC Notes
 
-* Addional columns are present in 2017May.
+* Additional columns are present in 2017May.
 
 ---
 
 ## Using the Python Script to join the CSV files.
 
-### Requiremnts
+### Requirements
     - Python 3
     - Pandas library (pip install pandas)
 
-## Instrucitons
+## Instructions
 
 1. Clone the repo
 `git clone https://github.com/dustinturp/STLCallsToService.git`
@@ -45,7 +48,6 @@ encoding: utf-8
 `python3 pandas_join_files.py` 
 
 3. Enter a name for the combined file.
-
 
 
 ## Source
